@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>¡Hola! Me llamo Jorge 👋</h1>
-<p>Soy ténico en Desarrollo de Aplicaciones Web y actualmente estoy estudiando el grado de Ingeniería Informática en la UOC.</p>
+<p>Soy técnico en Desarrollo de Aplicaciones Web y actualmente estoy estudiando el grado de Ingeniería Informática en la UOC.</p>
 <p>Desde que estudié PHP en el ciclo, me di cuenta de lo que me apasiona es el backend, aunque también siento mucha curiosidad por el frontend.</p>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/jpingil/)
