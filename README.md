@@ -38,6 +38,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
+<h2>Proyectos Destacados ✨</h2>
+<div>
+<h3>PinGiDev<h3>
+<a href="https://github.com/jpingil/PinGiDev"><img src="https://github.com/jpingil/PinGiDev/blob/main/public/assets/imgs/CapturaGitHub.png?raw=true" width="400"/></a>
+</div>
 
 
 
